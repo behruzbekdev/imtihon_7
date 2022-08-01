@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width:800px) {
+    .birov {
+        width: 100%!important;
+        position: absolute;
+        margin-left: 800px;
+        right: 0!important;
+    }
+
+    .qotd {
+        width: 80%;
+    }
+
+    * {
+        max-width: 100%!important;
+    }
+
+    .jaj {
+        width: 96%!important;
+        padding-bottom: 800px!important;
+        height: 60vh!important;
+        padding-bottom: 100px!important;
+    }
+
+    .rasmm {
+        margin-top: 30px!important;
+        width: 50px!important;
+    }
+
+    .qotd {
+        max-width: 100%!important;
+        height: 30vh!important;
+        margin-top: 300px!important;
+        background-color: white!important;
+        left:00px!important;
+        position: absolute;
+        position: fixed!important;
+
+    }
+
+    .header {
+        margin-top: 50px;
+    }
+
+    .nima {
+        margin-top: 60px;
+    }
+
+    .lal {
+        width: 40%!important;
+    }
+}
+
+.qotd {
+    width: 56%!important;
+    height: 30vh;
+    top: 310px!important;
+    margin-top: 200px;
+    margin-left: 340px!important;
+}
+
+.lal {
+    width: 60%;
+}
+.lalk{
+    margin-top: 20px;
+}
